@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    overflow: hidden; /* 화면 스크롤 안 생기게 */
+}
+#container {
+    width: 100vw;
+    height: 100vh;
+}
